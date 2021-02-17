@@ -1,0 +1,30 @@
+.header {
+    width: 100%;
+    height: 100px;
+    display: flex;
+    justify-content: space-around;
+    background-color: #fff;
+    font-size: 1.05rem;
+    border-bottom: 1px solid #ccc;
+    box-shadow: 1px 3px 5px #ccc;
+}
+
+#logo {
+    height: 99px;
+    width: 99px;
+}
+
+#header_links ul {
+    display: flex;
+    justify-content: flex-start;
+    padding-left: 0;
+}
+
+#header_links ul li {
+    list-style-type: none;
+    margin-left: 12px;
+}
+
+#header_links ul li a {
+    text-decoration: none;
+}
