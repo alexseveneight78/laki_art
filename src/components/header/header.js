@@ -15,10 +15,10 @@ export default class Header extends React.Component {
                             <a href='#'>Главная</a>
                         </li>
                         <li>
-                            <a href='#'>Портфолио</a>
-                        </li>
-                        <li>
                             <a href='#'>Услуги</a>
+                        </li>                        
+                        <li>
+                            <a href='#'>Портфолио</a>
                         </li>
                         <li>
                             <a href='#'>О нас</a>

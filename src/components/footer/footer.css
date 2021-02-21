@@ -3,22 +3,22 @@
     border: 1px solid black;
 }
 
-ul {
+.footer ul {
     padding-left: 0;
     display: flex;
     justify-content: space-around;
 }
 
-ul li {
+.footer ul li {
     list-style-type: none;
 }
 
-ul li a {
+.footer ul li a {
     text-decoration: none;
     margin-left: 16px;
 }
 
-ul li a img {
+.footer ul li a img {
     height: 64px;
-    width: 48px;
+    width: 64px;
 }
