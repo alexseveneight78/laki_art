@@ -1,0 +1,43 @@
+{
+  "files": {
+    "main.css": "/laki_art/static/css/main.345f9f3a.chunk.css",
+    "main.js": "/laki_art/static/js/main.abd7be73.chunk.js",
+    "main.js.map": "/laki_art/static/js/main.abd7be73.chunk.js.map",
+    "runtime-main.js": "/laki_art/static/js/runtime-main.cc2b55d5.js",
+    "runtime-main.js.map": "/laki_art/static/js/runtime-main.cc2b55d5.js.map",
+    "static/js/2.5e29d091.chunk.js": "/laki_art/static/js/2.5e29d091.chunk.js",
+    "static/js/2.5e29d091.chunk.js.map": "/laki_art/static/js/2.5e29d091.chunk.js.map",
+    "index.html": "/laki_art/index.html",
+    "static/css/main.345f9f3a.chunk.css.map": "/laki_art/static/css/main.345f9f3a.chunk.css.map",
+    "static/js/2.5e29d091.chunk.js.LICENSE.txt": "/laki_art/static/js/2.5e29d091.chunk.js.LICENSE.txt",
+    "static/media/consulting.af87202c.svg": "/laki_art/static/media/consulting.af87202c.svg",
+    "static/media/footer_insta_link.4d766212.svg": "/laki_art/static/media/footer_insta_link.4d766212.svg",
+    "static/media/footer_youtube_link.2770bf91.svg": "/laki_art/static/media/footer_youtube_link.2770bf91.svg",
+    "static/media/garant.324c8fbd.svg": "/laki_art/static/media/garant.324c8fbd.svg",
+    "static/media/goal.4e9b9391.svg": "/laki_art/static/media/goal.4e9b9391.svg",
+    "static/media/laki1.af110849.jpg": "/laki_art/static/media/laki1.af110849.jpg",
+    "static/media/laki2.60187e3c.jpg": "/laki_art/static/media/laki2.60187e3c.jpg",
+    "static/media/laki3.11b7fa0e.jpg": "/laki_art/static/media/laki3.11b7fa0e.jpg",
+    "static/media/laki4.7118c3c0.jpg": "/laki_art/static/media/laki4.7118c3c0.jpg",
+    "static/media/laki5.12635924.jpg": "/laki_art/static/media/laki5.12635924.jpg",
+    "static/media/logo.cbbae760.jpg": "/laki_art/static/media/logo.cbbae760.jpg",
+    "static/media/main.css": "/laki_art/static/media/main_bgc.dc493b7c.jpg",
+    "static/media/app.css": "/laki_art/static/media/microsoft-jhenghei_bigfontsite.com.88ed445e.ttf",
+    "static/media/monitoring.afcafee3.svg": "/laki_art/static/media/monitoring.afcafee3.svg",
+    "static/media/speed.39b23b9a.svg": "/laki_art/static/media/speed.39b23b9a.svg",
+    "static/media/standard.74a79e26.svg": "/laki_art/static/media/standard.74a79e26.svg",
+    "static/media/thanks1.0e8251a0.jpg": "/laki_art/static/media/thanks1.0e8251a0.jpg",
+    "static/media/thanks2.5717de33.jpg": "/laki_art/static/media/thanks2.5717de33.jpg",
+    "static/media/thanks3.e44904ba.jpg": "/laki_art/static/media/thanks3.e44904ba.jpg",
+    "static/media/thanks4.200456c7.jpg": "/laki_art/static/media/thanks4.200456c7.jpg",
+    "static/media/thanks5.b6f86903.jpg": "/laki_art/static/media/thanks5.b6f86903.jpg",
+    "static/media/thanks6.437f8403.jpg": "/laki_art/static/media/thanks6.437f8403.jpg",
+    "static/media/thanks7.aaea2c29.jpg": "/laki_art/static/media/thanks7.aaea2c29.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cc2b55d5.js",
+    "static/js/2.5e29d091.chunk.js",
+    "static/css/main.345f9f3a.chunk.css",
+    "static/js/main.abd7be73.chunk.js"
+  ]
+}
