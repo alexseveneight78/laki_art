@@ -6,22 +6,25 @@ export default class Header extends React.Component {
     render(){
         return (
             <div className='header'>
-                <a href='#'>
+                <a href='/'>
                     <img id='logo' src={logo} />
                 </a>
                 <div id='header_links'>
                     <ul>
                         <li>
-                            <a href='#'>Главная</a>
+                            <a href='/'>Главная</a>
                         </li>
                         <li>
-                            <a href='#'>Услуги</a>
+                            <a href='#services'>Услуги</a>
                         </li>                        
                         <li>
-                            <a href='#'>Портфолио</a>
+                            <a href='#portfolio'>Портфолио</a>
                         </li>
                         <li>
-                            <a href='#'>О нас</a>
+                            <a href='#reviews'>Отзывы</a>
+                        </li>
+                        <li>
+                            <a href='#about'>О нас</a>
                         </li>
                     </ul>
                 </div>
