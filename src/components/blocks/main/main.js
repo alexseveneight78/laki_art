@@ -8,7 +8,9 @@ export default class Main extends React.Component {
             <main>
                 <a name='/' />
                 <h1>РЕМОНТ ПРЕМИУМ И ЛЮКС-КЛАССА</h1>
-                <button>Заказать</button>
+                <button>
+                    <a href='tel:+375 29 339-72-37'>Заказать</a>
+                </button>
             </main>
         )
     }

@@ -7,8 +7,8 @@
 }
 .services h3 {
     text-align: center;
-    padding: 0;
     margin: 0;
+    padding: 15px 0 0 0;
 }
 .services ul {
     padding-left: 0;
@@ -24,11 +24,26 @@
     margin-top: 20px;
     border: 1px solid white;
     width: 250px;
+    padding: 8px 16px;
+    transition: .55s;
+}
+.services ul li:hover {
+    background-color: rgba(126, 217, 86, 0.7);
 }
 .services ul li img {
     width: 88px;
     height: 88px;
+    margin: 0 auto;
 }
 .services ul li p {
     padding: 0;
+}
+.services .our_work {
+    width: 80%;
+    margin: 0 auto;
+    padding-bottom: 25px;
+}
+
+.services .our_work li {
+    list-style-type: circle;
 }
