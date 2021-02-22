@@ -1,8 +1,8 @@
 .header {
     width: 100%;
-    height: 100px;
+    height: 50px;
     display: flex;
-    justify-content: space-evenly;
+    justify-content: space-between;
     background-color: #fff;
     font-size: 1.05rem;
     border-bottom: 1px solid #ccc;
@@ -11,30 +11,30 @@
     z-index: 9999;
 }
 .header a {
-    height: 88px;
-    width: 88px;
-    margin-top: 11px;
+    height: 50px;
+    width: 50px;
+    margin-left: 5%;
 }
 .header a img {
-    height: 88px;
-    width: 88px;
+    height: 50px;
+    width: 50px;
 }
 
 
 #header_links {
-    position: relative;
+    margin-right: 5%;
 }
 
 #header_links ul {
     display: flex;
     justify-content: flex-start;
     padding-left: 0;
-    position: absolute;
+    /*position: absolute;
     top: 50%;
     left: 50%;
     height: 30%;
     width: 50%;
-    margin: -15% 0 0 -25%;
+    margin: -15% 0 0 -25%;*/
 }
 
 #header_links ul li {
@@ -45,4 +45,8 @@
 #header_links ul li a {
     text-decoration: none;
     white-space: nowrap;
+    color: #595959;
+}
+#header_links ul li a:hover {
+    color: #000;
 }

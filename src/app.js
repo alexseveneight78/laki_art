@@ -5,6 +5,7 @@ import Main from './components/blocks/main/main';
 import Services from './components/blocks/services/services';
 import Portfolio from './components/blocks/portfolio/portfolio'
 import Reviews from './components/blocks/reviews/reviews';
+import Showroom from './components/blocks/showroom/showroom';
 import About from './components/blocks/about/about'
 
 import Footer from './components/footer/footer';
@@ -19,6 +20,7 @@ function App() {
       <Services />
       <Portfolio />
       <Reviews />
+      <Showroom />
       <About />
       <Footer />
     </div>

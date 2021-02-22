@@ -24,6 +24,9 @@ export default class Header extends React.Component {
                             <a href='#reviews'>Отзывы</a>
                         </li>
                         <li>
+                            <a href='#showroom'>Шоурум</a>
+                        </li>
+                        <li>
                             <a href='#about'>О нас</a>
                         </li>
                     </ul>

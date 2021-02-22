@@ -8,13 +8,14 @@
 .services h3 {
     text-align: center;
     margin: 0;
-    padding: 15px 0 0 0;
+    padding: 15px 0 15px 0;
 }
 .services ul {
     padding-left: 0;
     display: flex;
     justify-content: space-around;
     flex-wrap: wrap;
+    margin: 0;
 }
 .services ul li {
     list-style-type: none;
@@ -35,15 +36,16 @@
     height: 88px;
     margin: 0 auto;
 }
-.services ul li p {
-    padding: 0;
-}
-.services .our_work {
-    width: 80%;
-    margin: 0 auto;
-    padding-bottom: 25px;
-}
 
-.services .our_work li {
+#our_work ul {
+    padding: 0;
+    display: inline-block;
+}
+#our_work ul li {
     list-style-type: circle;
+    display: list-item;
+    border: none;
+    width: 100%;
+    margin: 0;
+    padding: 0;
 }

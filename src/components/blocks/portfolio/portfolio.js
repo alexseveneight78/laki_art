@@ -24,12 +24,12 @@ export default class Portfolio extends React.Component {
     return (
         <div className='portfolio'>
             <a name ='portfolio' />
-            <h3>Фото наших работ:</h3>
+            <h3>ФОТО НАШИХ РАБОТ:</h3>
             <Carousel>
                 {items.map(item => <img key={item.id} src={item.image}/>)}
             </Carousel>
             <br></br>
-            <h3>Видео наших работ:</h3>
+            <h3>ВИДЕО НАШИХ РАБОТ:</h3>
             <div className='video'>
                 <iframe width="560" height="315" src="https://www.youtube.com/embed/SH3-cdemzio" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowFullscreen></iframe>
                 <iframe width="560" height="315" src="https://www.youtube.com/embed/nscTvdbYa74" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowFullscreen></iframe>

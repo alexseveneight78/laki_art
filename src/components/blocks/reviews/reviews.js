@@ -27,7 +27,7 @@ export default class Reviews extends React.Component {
         return (
             <div className='reviews'>
                 <a name='reviews' />
-                <h3>Отзвыв наших клиентов:</h3>
+                <h3>ОТЗЫВЫ НАШИХ КЛИЕНТОВ:</h3>
                 <Carousel>
                     {items.map(item => <img key={item.id} src={item.image}/>)}
                 </Carousel>
