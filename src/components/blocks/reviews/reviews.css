@@ -2,7 +2,10 @@
     width: 80%;
     height: 100vh;
     margin: 0 auto;
-    border: 1px solid black;
+    transition: .55s;
+}
+.reviews:hover {
+    background-color: #f2f2f2;
 }
 .reviews h3 {
     text-align: center;

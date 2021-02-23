@@ -7,6 +7,18 @@ import img2 from '../../../images/gallery/laki2.jpg';
 import img3 from '../../../images/gallery/laki3.jpg';
 import img4 from '../../../images/gallery/laki4.jpg';
 import img5 from '../../../images/gallery/laki5.jpg';
+import img6 from '../../../images/gallery/laki6.jpg';
+import img7 from '../../../images/gallery/laki7.jpg';
+import img8 from '../../../images/gallery/laki8.jpg';
+import img9 from '../../../images/gallery/laki9.jpg';
+import img10 from '../../../images/gallery/laki10.jpg';
+import img11 from '../../../images/gallery/laki11.jpg';
+import img12 from '../../../images/gallery/laki12.jpg';
+import img13 from '../../../images/gallery/laki13.jpg';
+import img14 from '../../../images/gallery/laki14.jpg';
+import img15 from '../../../images/gallery/laki15.jpg';
+import img16 from '../../../images/gallery/laki16.jpg';
+import img17 from '../../../images/gallery/laki17.jpg';
 
 export default class Portfolio extends React.Component {
   state = {
@@ -15,7 +27,19 @@ export default class Portfolio extends React.Component {
       {id: 2, image: img2},
       {id: 3, image: img3},
       {id: 4, image: img4},
-      {id: 5, image: img5}
+      {id: 5, image: img5},
+      {id: 6, image: img6},
+      {id: 7, image: img7},
+      {id: 8, image: img8},
+      {id: 9, image: img9},
+      {id: 10, image: img10},
+      {id: 11, image: img11},
+      {id: 12, image: img12},
+      {id: 13, image: img13},
+      {id: 14, image: img14},
+      {id: 15, image: img15},
+      {id: 16, image: img16},
+      {id: 17, image: img17}
     ]
   }
 
