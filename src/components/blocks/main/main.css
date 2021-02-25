@@ -1,17 +1,18 @@
 main {
-    background: url(../../../images/main_bgc.png);
-    height: 80vh;
+    background: url(../../../images/main_bgc.jpg);
+    height: 90vh;
     padding-top: 100px;
+    background-position: center;
+    max-width: 100%;
 }
-
-main h1 {
+main .main_name {
+    margin: 2% 0 0 10%;
+}
+main .main_name h3 {
     padding: 0;
     margin: 0;
     color: #000;
-    text-align: center;
-    font-size: 2.75rem;
-    position: relative;
-    top: 40%;
+    font-size: 6rem;
 }
 main button {
     border: 1px solid #fff;
@@ -25,7 +26,6 @@ main button {
     background-color: rgba(0, 0, 0, 0.1);
     transition: .55s;
     position: relative;
-    top: 45%;
     left: 46%;
 }
 main button:hover {
