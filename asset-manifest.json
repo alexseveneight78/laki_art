@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/laki_art/static/css/main.ccb243af.chunk.css",
+    "main.css": "/laki_art/static/css/main.3d2ffc5a.chunk.css",
     "main.js": "/laki_art/static/js/main.7e85f1c1.chunk.js",
     "main.js.map": "/laki_art/static/js/main.7e85f1c1.chunk.js.map",
     "runtime-main.js": "/laki_art/static/js/runtime-main.cc2b55d5.js",
@@ -8,7 +8,7 @@
     "static/js/2.5e29d091.chunk.js": "/laki_art/static/js/2.5e29d091.chunk.js",
     "static/js/2.5e29d091.chunk.js.map": "/laki_art/static/js/2.5e29d091.chunk.js.map",
     "index.html": "/laki_art/index.html",
-    "static/css/main.ccb243af.chunk.css.map": "/laki_art/static/css/main.ccb243af.chunk.css.map",
+    "static/css/main.3d2ffc5a.chunk.css.map": "/laki_art/static/css/main.3d2ffc5a.chunk.css.map",
     "static/js/2.5e29d091.chunk.js.LICENSE.txt": "/laki_art/static/js/2.5e29d091.chunk.js.LICENSE.txt",
     "static/media/consulting.af87202c.svg": "/laki_art/static/media/consulting.af87202c.svg",
     "static/media/footer_insta_link.4d766212.svg": "/laki_art/static/media/footer_insta_link.4d766212.svg",
@@ -48,7 +48,7 @@
   "entrypoints": [
     "static/js/runtime-main.cc2b55d5.js",
     "static/js/2.5e29d091.chunk.js",
-    "static/css/main.ccb243af.chunk.css",
+    "static/css/main.3d2ffc5a.chunk.css",
     "static/js/main.7e85f1c1.chunk.js"
   ]
 }
