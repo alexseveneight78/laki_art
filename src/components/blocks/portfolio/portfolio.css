@@ -16,6 +16,10 @@
     justify-content: space-evenly;
     flex-wrap: wrap;
 }
+.portfolio .video iframe {
+    height: 35vh;
+    margin-top: 10px;
+}
 .portfolio h3 {
     text-align: center;
 }

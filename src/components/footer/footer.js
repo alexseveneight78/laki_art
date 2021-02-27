@@ -13,7 +13,7 @@ export default class Footer extends React.Component {
                         ООО «Лаки-Арт-Бел» УНП 693150029  
                         </a>
                     </li>
-                    <li>
+                    <li >
                         <a href='https://www.instagram.com/lakiart.by/' target='_blank'>
                             <img src={insta} />
                         </a>
