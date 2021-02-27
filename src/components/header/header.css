@@ -29,12 +29,6 @@
     display: flex;
     justify-content: flex-start;
     padding-left: 0;
-    /*position: absolute;
-    top: 50%;
-    left: 50%;
-    height: 30%;
-    width: 50%;
-    margin: -15% 0 0 -25%;*/
 }
 
 #header_links ul li {
@@ -49,4 +43,30 @@
 }
 #header_links ul li a:hover {
     color: #000;
+}
+ 
+@media screen and (max-width: 425px) {
+    .header {
+        flex-direction: column;
+        height: auto;
+        font-size: 0.9rem;
+    }
+    .header a {
+        width: 30px;
+        height: 30px;
+        margin: 0 auto;
+    }
+    #header_links {
+        margin: 0 auto;
+    }
+}
+@media screen and (max-width: 375px) {
+    .header {
+        font-size: 0.7rem;
+    }
+}
+@media screen and (max-width: 320px) {
+    .header {
+        font-size: 0.6rem;
+    }
 }

@@ -21,6 +21,7 @@
     list-style-type: none;
     display: flex;
     flex-direction: column;
+    justify-content: flex-start;
     margin-right: 50px;
     margin-top: 20px;
     border: 1px solid white;
@@ -32,9 +33,12 @@
     background-color: rgba(126, 217, 86, 0.7);
 }
 .services ul li img {
-    width: 88px;
-    height: 88px;
+    width: 35%;
+    height: 35%;
     margin: 0 auto;
+}
+.services ul li p {
+    text-align: center;
 }
 #our_work {
     width: 50%;
@@ -51,4 +55,27 @@
     width: 100%;
     margin: 0;
     padding: 0;
+}
+
+@media screen and (max-width: 768px) {
+    .services ul li {
+        width: 35%;
+        margin: 15px 0 0 0;
+    }
+    #our_work {
+        width: 75%;
+    }
+}
+@media screen and (max-width: 425px) {
+    .services ul li {
+        width: 100%;
+        margin: 15px 0 0 0;
+    }
+    .services ul li img {
+        width: 25%;
+        height: 25%;
+    }
+    #our_work {
+        width: 100%;
+    }
 }
