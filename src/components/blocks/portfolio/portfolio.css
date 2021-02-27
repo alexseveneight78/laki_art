@@ -8,7 +8,7 @@
 }
 .portfolio img {
     width: 100%;
-    height: 80vh;
+    height: 50vh;
     object-fit: contain;
 }
 .portfolio .video {
@@ -24,17 +24,17 @@
     text-align: center;
 }
 @media screen and (max-width: 425px) {
-    button.rec-arrow {
+    .portfolio button.rec-arrow {
         width: 30px;
         height: 30px;
         min-width: 30px;
         line-height: 30px;
         font-size: 0.75em;
     }
-    button.rec-arrow-left {
-        margin-left: -30px;
+    .portfolio button.rec-arrow-left {
+        margin-left: -15px;
     }
-    button.rec-arrow-right {
-        margin-right: -30px;
+    .portfolio button.rec-arrow-right {
+        margin-right: -15px;
     }
 }

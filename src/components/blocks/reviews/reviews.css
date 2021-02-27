@@ -21,4 +21,24 @@
     .reviews {
         width: 100%;
     }
+    .reviews button.rec-arrow-left {
+        margin-left: 28px;
+        width: 30px;
+        height: 30px;
+        min-width: 30px;
+        line-height: 30px;
+        font-size: 0.75em;
+    }
+    .reviews button.rec-arrow-right {
+        margin-right: 20px;
+        width: 30px;
+        height: 30px;
+        min-width: 30px;
+        line-height: 30px;
+        font-size: 0.75em;
+    }
 }
+
+
+
+

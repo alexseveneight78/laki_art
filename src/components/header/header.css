@@ -59,14 +59,23 @@
     #header_links {
         margin: 0 auto;
     }
+    #header_links ul li {
+        margin-left: 5px;
+    }
 }
 @media screen and (max-width: 375px) {
     .header {
         font-size: 0.7rem;
     }
+    #header_links ul li {
+        margin-left: 5px;
+    }
 }
 @media screen and (max-width: 320px) {
     .header {
         font-size: 0.6rem;
+    }
+    #header_links ul li {
+        margin-left: 5px;
     }
 }
