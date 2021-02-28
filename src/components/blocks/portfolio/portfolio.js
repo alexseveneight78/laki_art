@@ -57,6 +57,7 @@ export default class Portfolio extends React.Component {
             <div className='video'>
                 <iframe src="https://www.youtube.com/embed/SH3-cdemzio" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowFullscreen></iframe>
                 <iframe src="https://www.youtube.com/embed/nscTvdbYa74" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowFullscreen></iframe>
+                <iframe src="https://www.youtube.com/embed/R3K27JVv8I0" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowFullScreen></iframe>
             </div>
         </div>
     )
