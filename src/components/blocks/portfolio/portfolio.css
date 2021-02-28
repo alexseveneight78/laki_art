@@ -24,6 +24,9 @@
     text-align: center;
 }
 @media screen and (max-width: 425px) {
+    .portfolio {
+        width: 100%;
+    }
     .portfolio button.rec-arrow {
         width: 30px;
         height: 30px;
@@ -31,10 +34,10 @@
         line-height: 30px;
         font-size: 0.75em;
     }
-    .portfolio button.rec-arrow-left {
+    /*.portfolio button.rec-arrow-left {
         margin-left: -15px;
     }
     .portfolio button.rec-arrow-right {
         margin-right: -15px;
-    }
+    }*/
 }
