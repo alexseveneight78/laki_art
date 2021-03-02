@@ -10,8 +10,7 @@
     text-align: center;
 }
 .reviews img {
-    width: 40%;
-    object-fit: cover;
+    height: 70vh;
 }
 .rec-pagination {
     margin-bottom: 12px;
@@ -20,6 +19,9 @@
 @media screen and (max-width: 768px) {
     .reviews {
         width: 100%;
+    }
+    .reviews img {
+        height: 40vh;
     }
     .reviews button.rec-arrow-left {
         margin-left: 28px;
